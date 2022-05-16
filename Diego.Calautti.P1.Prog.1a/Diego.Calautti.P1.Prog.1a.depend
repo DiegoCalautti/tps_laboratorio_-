@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652704787 source:c:\users\icarus\desktop\codeblock workspace\diego.calautti.p1.prog.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
